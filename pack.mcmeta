@@ -3,12 +3,12 @@
 		"pack_format": 1,
 		"description": [
 			{
-				"text": "Makes Your Aim Better ",
-				"color": "red"
+				"text": "Makes Java Into Bedrock ",
+				"color": "white"
 			},
 			{
-				"text": "Version: 1.o",
-				"color": "white"
+				"text": "Version: 1.0",
+				"color": "red"
 			}
 		]
 	}
